@@ -13,6 +13,7 @@
 		816D2B0A202949F000317692 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 816D2B09202949F000317692 /* Assets.xcassets */; };
 		816D2B0D202949F000317692 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 816D2B0B202949F000317692 /* LaunchScreen.storyboard */; };
 		816D2B10202949F000317692 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2B0F202949F000317692 /* main.m */; };
+		816D2B182029540100317692 /* OtherCotroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2B172029540100317692 /* OtherCotroller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		816D2B0C202949F000317692 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		816D2B0E202949F000317692 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		816D2B0F202949F000317692 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		816D2B162029540100317692 /* OtherCotroller.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OtherCotroller.h; sourceTree = "<group>"; };
+		816D2B172029540100317692 /* OtherCotroller.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OtherCotroller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				816D2B01202949F000317692 /* AppDelegate.m */,
 				816D2B03202949F000317692 /* ViewController.h */,
 				816D2B04202949F000317692 /* ViewController.m */,
+				816D2B162029540100317692 /* OtherCotroller.h */,
+				816D2B172029540100317692 /* OtherCotroller.m */,
 				816D2B06202949F000317692 /* Main.storyboard */,
 				816D2B09202949F000317692 /* Assets.xcassets */,
 				816D2B0B202949F000317692 /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				816D2B05202949F000317692 /* ViewController.m in Sources */,
 				816D2B10202949F000317692 /* main.m in Sources */,
 				816D2B02202949F000317692 /* AppDelegate.m in Sources */,
+				816D2B182029540100317692 /* OtherCotroller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

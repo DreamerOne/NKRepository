@@ -15,6 +15,7 @@
 		816D2B10202949F000317692 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2B0F202949F000317692 /* main.m */; };
 		816D2B182029540100317692 /* OtherCotroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2B172029540100317692 /* OtherCotroller.m */; };
 		816D2BA3202987DE00317692 /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2BA2202987DE00317692 /* CustomView.m */; };
+		816D2BA62029888E00317692 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D2BA52029888E00317692 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		816D2B172029540100317692 /* OtherCotroller.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OtherCotroller.m; sourceTree = "<group>"; };
 		816D2BA1202987DE00317692 /* CustomView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomView.h; sourceTree = "<group>"; };
 		816D2BA2202987DE00317692 /* CustomView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
+		816D2BA42029888E00317692 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		816D2BA52029888E00317692 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				816D2B172029540100317692 /* OtherCotroller.m */,
 				816D2BA1202987DE00317692 /* CustomView.h */,
 				816D2BA2202987DE00317692 /* CustomView.m */,
+				816D2BA42029888E00317692 /* Person.h */,
+				816D2BA52029888E00317692 /* Person.m */,
 				816D2B06202949F000317692 /* Main.storyboard */,
 				816D2B09202949F000317692 /* Assets.xcassets */,
 				816D2B0B202949F000317692 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				816D2BA62029888E00317692 /* Person.m in Sources */,
 				816D2BA3202987DE00317692 /* CustomView.m in Sources */,
 				816D2B05202949F000317692 /* ViewController.m in Sources */,
 				816D2B10202949F000317692 /* main.m in Sources */,
